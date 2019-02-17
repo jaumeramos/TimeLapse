@@ -3,6 +3,9 @@
 
 Normalment treballo amb Linux, però sé que la majoria de vatros treballeu amb Windows, per això he intentat trobar eines de codi obert que pogueu fer servir en aquest sistema (i que a més a més funcionin amb Linux).
 
+Un Time Lapse és un vídeo fet a partir d'una seqüència de imatges fetes a intervals regulars, i permet mostrar el moviment accelerat de canvis que succeeixen a poc a poc. Podem veure un exemple bonic en aquesta pàgina: https://www.pond5.com/es/stock-footage/453957/time-lapse-apertura-y-morir-dahlia-rojo-9b-con-alfa-mate.html
+
+
 ### Fer les fotos
 
 En aquest taller només explicaré com processar les fotos, per fer les fotos us caldrà una càmera que tingui la funció de fer fotos a intervals regulars. Podeu fer servir un mòbil  amb l'ajut d'alguna aplicació que us permeti aquesta funcionalitat, cerqueu a Internet els termes "intervalometer app" i segur que en trobareu alguna que us serveixi.
@@ -60,6 +63,10 @@ Per aquest taller utilitzaré una colecció de fotos del procés de floridura d'
 
 
 ### Passos a fer amb Blender per generar el vídeo
+
+Blender no és un programa d'edició de vídeo, és principalment conegut per les seves capacitas d'animació 3D. Podeu veure un exemple del que es podia fer fa 10 anys amb aquest programa en aquest curt: https://www.youtube.com/watch?v=YE7VzlLtp-4
+
+Per generar el Time Lapse a partir de les fotos fetes hem de seguir aquestos passos:
 
 - Definir la mida del vídeo a la part dreta on posa "Dimensions". Hi ha diferents presets, escollim el més adient segons la qualitat dessitjada i el format a que hem retallat les fotos (16:9, 4:3...)
 
