@@ -102,6 +102,9 @@ Per generar el Time Lapse a partir de les fotos fetes hem de seguir aquestos pas
 
 ### Software que podeu fer servir
 
+- Reproductor de vídeos que permet veure la majoria de còdec.
+  - https://www.videolan.org/index.ca.html
+  
 - Eina per processar les fotos, es troba tant per Windows com per Linux.
   - https://www.darktable.org/
 
