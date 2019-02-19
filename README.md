@@ -3,7 +3,8 @@
 
 Normalment treballo amb Linux, però sé que la majoria de vatros treballeu amb Windows, per això he intentat trobar eines de codi obert que pogueu fer servir en aquest sistema (i que a més a més funcionin amb Linux).
 
-Un Time Lapse és un vídeo fet a partir d'una seqüència de imatges fetes a intervals regulars, i permet mostrar el moviment accelerat de canvis que succeeixen a poc a poc. Podem veure un exemple bonic en aquesta pàgina: [https://www.pond5.com/es/stock-footage/453957/time-lapse-apertura-y-morir-dahlia-rojo-9b-con-alfa-mate.html](https://www.pond5.com/es/stock-footage/453957/time-lapse-apertura-y-morir-dahlia-rojo-9b-con-alfa-mate.html)
+Un Time Lapse és un vídeo fet a partir d'una seqüència de imatges fetes a intervals regulars, i permet mostrar el moviment accelerat de canvis que succeeixen a poc a poc. Podem veure un exemple bonic en aquesta pàgina: 
+[https://www.pond5.com/es/stock-footage/453957/time-lapse-apertura-y-morir-dahlia-rojo-9b-con-alfa-mate.html]
 
 
 ### Fer les fotos
